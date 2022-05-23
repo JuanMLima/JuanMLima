@@ -1,3 +1,7 @@
+<div align="center">
+  <h1> Olá! Eu sou o Juan.</h1>
+  </div>
+
 <div align="left">
   <a href="https://github.com/JuanMLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanMLima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -11,3 +15,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+<br>
+  <div align="left">
+    ◽ Tenho 27 anos ✔ <br>
+    ◽ Trabalho como técnico no colégio Gracinha em São Paulo 🤵 <br>
+    ◽ Estudo programação e design em minhas horas vagas 👨‍💻<br>
+  </div>
