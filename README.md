@@ -2,10 +2,11 @@
   <h1> Olá! Eu sou o Juan.</h1>
   </div>
 
-<div align="left">
-  <a href="https://github.com/JuanMLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanMLima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMLima&layout=compact&langs_count=7&theme=midnight-purple"/>
+<div align="center">
+  <a href="https://github.com/juanmlima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanmlima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmlima&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
   <div align="left" style="display: inline_block"><br>
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
