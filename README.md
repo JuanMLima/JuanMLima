@@ -18,7 +18,7 @@
   <img align="center" alt="Juan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br>
-  <div align="left">
+  <div align="center">
     ◽ Tenho 27 anos ✔ <br>
     ◽ Trabalho como técnico no colégio Gracinha em São Paulo 🤵 <br>
     ◽ Estudo programação e design em minhas horas vagas 👨‍💻<br>
