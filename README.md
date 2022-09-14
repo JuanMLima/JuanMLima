@@ -2,24 +2,27 @@
   <h1> Olá! Eu sou o Juan.</h1>
   </div>
 
+<br>
+  <div align="center">
+    ◽ Tenho 27 anos ✔<br>
+    ◽ Trabalho como técnico no colégio Gracinha em São Paulo 🤵 <br>
+    ◽ Estudo programação em minhas horas vagas 👨‍💻<br>
+  </div>
+<br>
+
 <div align="center">
   <a href="https://github.com/juanmlima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanmlima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmlima&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMLima&layout=compact&theme=dark")](https://github.com/JuanMLima/github-readme-stats)>
+</div>
 
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Juan-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Juan-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Juan-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Juan-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Juan-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Juan-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
-  <div align="left" style="display: inline_block"><br>
-  <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Juan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Juan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juan-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="Juan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-<br>
-  <div align="left">
-    ◽ Tenho 27 anos ✔<br>
-    ◽ Trabalho como técnico no colégio Gracinha em São Paulo 🤵 <br>
-    ◽ Estudo programação e design em minhas horas vagas 👨‍💻<br>
-  </div>
+
+
