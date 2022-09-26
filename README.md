@@ -5,8 +5,9 @@
 <br>
   <div align="center">
     ◽ Tenho 27 anos ✔<br>
-    ◽ Atuo como front end para projetos particulares 🤵 <br>
-    ◽ Estudo programação em minhas horas vagas 👨‍💻<br>
+    ◽ Programo desde os 17 anos 👨‍💻<br>
+    ◽ Atuo principalmente como frontend 🤵 <br>
+    ◽ Especialista em resolução de problemas. 🦾<br>
   </div>
 <br>
 
