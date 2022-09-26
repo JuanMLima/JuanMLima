@@ -5,7 +5,7 @@
 <br>
   <div align="center">
     ◽ Tenho 27 anos ✔<br>
-    ◽ Trabalho como técnico no colégio Gracinha em São Paulo 🤵 <br>
+    ◽ Atuo como front end para projetos particulares 🤵 <br>
     ◽ Estudo programação em minhas horas vagas 👨‍💻<br>
   </div>
 <br>
