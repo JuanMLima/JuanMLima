@@ -4,7 +4,7 @@
 
 <br>
   <div align="center">
-    ◽ Tenho 27 anos ✔<br>
+    ◽ Tenho 28 anos ✔<br>
     ◽ Programo desde os 17 anos 👨‍💻<br>
     ◽ Atuo principalmente como frontend 🤵 <br>
     ◽ Especialista em resolução de problemas. 🦾<br>
